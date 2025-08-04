@@ -1,8 +1,8 @@
 # Gestus 🖐🖥️
 
+![Gestus Demo](gestus-github.png)
 
-
-**Gestus** is a gesture-controlled system designed to revolutionize the way users interact with their computer screens. By recognizing intuitive hand gestures—single or dual-handed—Gestus enables touch-free control over applications, navigation, and digital interfaces. Modern, dynamic, and built for fluid interaction, this software brings the future of input right to your fingertips... without actually using them.
+**Gestus** is a gesture-controlled system designed to revolutionize the way users interact with their computer screens. By recognizing intuitive hand gestures—single or dual-handed—Gestus enables touch-free control over applications, navigation, and digital interfaces.
 
 ## ✨ Features
 
@@ -27,3 +27,4 @@ Clone this repository and follow installation instructions to get started:
 ```bash
 git clone https://github.com/yourusername/gestus.git
 cd gestus
+```
